@@ -1,0 +1,14 @@
+---------CHECKOUT ROUTES:-------------
+http://localhost:1000/api/v1/checkout (POST)
+http://localhost:1000/api/v1/getcheckout (GET)
+http://localhost:1000/api/v1/delcheckout/:id (DELETE)
+
+---------CONTACTS ROUTES--------------
+http://localhost:1000/api/v1/message (POST)
+http://localhost:1000/api/v1/getMessage (GET)
+http://localhost:1000/api/v1/deleteMessage/:id (DELETE)
+
+---------USER ROUTE-------------
+http://localhost:1000/api/v1/user (POST)
+http://localhost:1000/api/v1/getUser (GET)
+http://localhost:1000/api/v1/delUser/:id (DELETE)
